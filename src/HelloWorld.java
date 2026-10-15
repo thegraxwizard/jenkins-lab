@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins CI Pipeline - Build 3!");
+        System.out.println("Hello from Jenkins CI Pipeline - Build 4!");
     }
 }
